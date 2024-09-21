@@ -26,5 +26,5 @@ var number2 = 10;
 console.log(number1 + number2); // prints 15 on the console
 ```
 
-## Images
+## Image
 ![JS-Image](./images/JS-img.png)
